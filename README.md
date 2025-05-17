@@ -60,7 +60,7 @@ pip install streamlit pandas scikit-learn matplotlib
 
 ## 🚀 How to Run the App
 
-Make sure all your data files (CSV) are in the same directory as ani.py.
+Make sure all your data files (CSV) are in the same directory as FINAL.py.
 
 Run the app using Streamlit:
 
